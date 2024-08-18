@@ -16,7 +16,7 @@
   * [Page](ping-tai-gong-neng/page.md)
   * [社區/公會](ping-tai-gong-neng/she-qu-gong-hui.md)
   * [組隊/語音/直播大廳](ping-tai-gong-neng/zu-dui-yu-yin-zhi-bo-da-ting.md)
-  * [商城](ping-tai-gong-neng/shang-cheng.md)
+  * [商城](ji-fen-jing-ji-xue/shang-cheng.md)
   * [Pro 服務](ping-tai-gong-neng/pro-fu-wu/README.md)
     * [Free](ping-tai-gong-neng/pro-fu-wu/free.md)
     * [Premium](ping-tai-gong-neng/pro-fu-wu/premium.md)
