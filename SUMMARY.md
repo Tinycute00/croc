@@ -1,10 +1,14 @@
 # Table of contents
 
-* [文件概述](README.md)
-* [介紹](jie-shao.md)
+* [介紹](README.md)
 * [平台特色](ping-tai-te-se.md)
+* [市場分析](shi-chang-fen-xi.md)
 * [積分經濟學](ji-fen-jing-ji-xue/README.md)
-  * [經濟學](ji-fen-jing-ji-xue/jing-ji-xue.md)
+  * [正向循環](ji-fen-jing-ji-xue/zheng-xiang-xun-huan/README.md)
+    * [使用者循環](ji-fen-jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/README.md)
+      * [公會](ji-fen-jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/gong-hui.md)
+      * [創作者](ji-fen-jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/chuang-zuo-zhe.md)
+      * [用戶](ji-fen-jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/yong-hu.md)
   * [積分買/賣](ji-fen-jing-ji-xue/ji-fen-mai-mai.md)
   * [回饋系統](ji-fen-jing-ji-xue/hui-kui-xi-tong.md)
 * [使用者](shi-yong-zhe/README.md)
