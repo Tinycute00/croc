@@ -1,8 +1,9 @@
 ---
 description: 構建 Electroic 經濟系統的原則
+icon: square-dollar
 ---
 
-# 積分經濟學
+# 經濟學
 
 ### 以需求為中心
 
