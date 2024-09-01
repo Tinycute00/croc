@@ -2,11 +2,10 @@
 
 * [介紹](README.md)
 * [平台特色](ping-tai-te-se.md)
-* [市場分析](shi-chang-fen-xi.md)
 * [經濟學](jing-ji-xue/README.md)
   * [需求閉環](jing-ji-xue/zheng-xiang-xun-huan/README.md)
     * [創作者循環](jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/README.md)
-      * [運營/廣告/個人](jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/xiang-mu.md)
+      * [運營/廣告/需求者](jing-ji-xue/xu-qiu-bi-huan/chuang-zuo-zhe-xun-huan/yun-ying-guang-gao-xu-qiu-zhe.md)
       * [公會](jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/gong-hui.md)
       * [創作者](jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/chuang-zuo-zhe.md)
       * [用戶](jing-ji-xue/zheng-xiang-xun-huan/shi-yong-zhe-xun-huan/yong-hu.md)
