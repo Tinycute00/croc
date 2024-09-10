@@ -24,3 +24,5 @@ Electronic 的積分經濟模型將 項目社區、創作者與使用者的效�
 
 
 
+<figure><img src="../../.gitbook/assets/螢幕擷取畫面 2024-09-11 003213.png" alt=""><figcaption></figcaption></figure>
+

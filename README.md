@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/collabEtcroc_Club.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/螢幕擷取畫面 2024-09-11 002456.png" alt=""><figcaption></figcaption></figure>
 
 Electronic croc 是一個Web3的遊戲資訊平台中心&遊戲創作者平台，您可以在這裡創作、辦活動甚至組團\
 \
