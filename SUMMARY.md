@@ -19,8 +19,6 @@
   * [新聞/時事/任務板(商務用)](ping-tai-gong-neng/xin-wen-shi-shi-ren-wu-ban-shang-wu-yong.md)
   * [社區/公會](ping-tai-gong-neng/she-qu-gong-hui.md)
   * [遊戲熱度排名](ping-tai-gong-neng/you-xi-re-du-pai-ming.md)
-  * [組隊/語音/直播大廳](ping-tai-gong-neng/zu-dui-yu-yin-zhi-bo-da-ting.md)
-  * [商城](ji-fen-jing-ji-xue/shang-cheng.md)
   * [Pro 服務](ping-tai-gong-neng/pro-fu-wu/README.md)
     * [Free](ping-tai-gong-neng/pro-fu-wu/free.md)
     * [Premium](ping-tai-gong-neng/pro-fu-wu/premium.md)
