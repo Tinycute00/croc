@@ -28,3 +28,4 @@
 * [歷代更新](li-dai-geng-xin.md)
 * [關於 Electronic Beta 常見問題解答](guan-wu-electronic-beta-chang-jian-wen-ti-jie-da.md)
 * [简体中文](https://electronic-1.gitbook.io/electroic-croc/v/bai-pi-shu/)
+* [withepaper](https://electronic-1.gitbook.io/electroic-croc/v/whitepaper/)
